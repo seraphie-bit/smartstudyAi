@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study AI",
+  "description": "All-in-one modern AI study assistant with step-by-step math solver, AI tutor chat, exam quiz generator, notes management, and subject study guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
